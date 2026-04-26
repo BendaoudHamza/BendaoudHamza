@@ -49,7 +49,7 @@ My work sits at the intersection of **rigorous engineering** (CentraleSupélec) 
 - ✅ Trilingual (FR · EN · AR), comfortable in international teams
 - ✅ Track record of delivering in high-stakes environments (Safran, Attijariwafa Bank, ONCF)
 
-📌 **Currently looking for:** Data Scientist / AI Engineer roles in Paris or remote-friendly companies.
+📌 **Currently looking for:** Data Scientist / AI Engineer or Consulting roles in Paris or remote-friendly companies.
 
 </td>
 </tr>
